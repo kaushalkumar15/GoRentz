@@ -1,0 +1,22 @@
+body {
+  background-color: #e7ebe7;
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-white {
+  background-color: #ffffff !important;
+}
+
+.btn-success {
+  background-color: #3fc979;
+  border: none;
+}
+
+a {
+  color: #111;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(82, 82, 82);
+}
